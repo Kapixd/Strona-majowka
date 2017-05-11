@@ -1,0 +1,2 @@
+# Strona-majowka
+strona internetowa
